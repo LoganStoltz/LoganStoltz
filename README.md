@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LoganStoltz
-- 👀 I’m interested in Technology and spend a lot of time out in nature.
+- 👀 I’m interested in Technology, but love spend time out in nature.
 - 🌱 I’m currently learning how to be an adult
-- 💞️ I’m looking to collaborate on video game design
+- 💞️ I’m looking to collaborate on designing video games and just coding in general in Java
 - 📫 How to reach me lstoltz@ewu.edu
 
 <!---
