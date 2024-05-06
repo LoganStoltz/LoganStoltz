@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @LoganStoltz
-- 👀 I’m interested in Technology, but love spend time out in nature.
-- 🌱 I’m currently learning how to be an adult
-- 💞️ I’m looking to collaborate on designing video games and just coding in general in Java
-- 📫 How to reach me lstoltz@ewu.edu
+- 👀 I’m interested in Technology, but love to spend time out in nature.
+- 💞️ I’m looking to collaborate on web design and/or just talk about coding.
+- 📫 How to reach me loganstoltz1234@gmail.com
 
 <!---
 LoganStoltz/LoganStoltz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
